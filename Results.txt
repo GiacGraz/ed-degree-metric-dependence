@@ -1,0 +1,24 @@
+ed_degree_equazioni3.jl
+Counts (seed_u, seed_M) -> #solutions:
+  (1,1) -> 13
+  (1,2) -> 13
+  (1,3) -> 13
+  (1,4) -> 13
+  (1,5) -> 13
+  (2,1) -> 13
+  (2,2) -> 13
+  (2,3) -> 13
+  (2,4) -> 13
+  (2,5) -> 13
+  (3,1) -> 13
+  (3,2) -> 13
+  (3,3) -> 13
+  (3,4) -> 13
+  (3,5) -> 13
+Unique counts observed: [13]
+
+
+ed_degree_equazioni3BW.jl
+Counts over seeds: [3, 3, 3, 3, 3]
+Unique counts observed: [3]
+
